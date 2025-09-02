@@ -2,4 +2,4 @@
 
 This is a **repository** demonstrating git usage.
 
-This is for 506.
+This is for Fall 2025.
